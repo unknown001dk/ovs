@@ -33,7 +33,7 @@ include('header.php');
 <form method ="post" action="vote3.php">
 <div class="gov-align">
 <div class="hero-body-candidate_gov">
-<font color="white">Candidate for Governor</font>
+<font color="white">Candidate for chief minister</font>
 </div>
 <div class="governor">
 <div class="gov-margin">
@@ -67,7 +67,7 @@ while($row=mysqli_fetch_array($governor)){ $governor_id=$row['CandidateID']; ?>
 
 <div class="vice-align">
 <div class="hero-body-candidate1">
-<font color="white">Candidate for Vice-Governor</font>
+<font color="white">Candidate for Vice chief minister</font>
 </div>
 
 <div class="governor">

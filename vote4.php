@@ -191,7 +191,7 @@ echo 'NO Candidate Selected';
 </br>
 </br>
 <div class="cent">
-<p>1st Year Representative:&nbsp;&nbsp;</p>
+<p>Cheif minister:&nbsp;&nbsp;</p>
 
 <div class="rep2">
 <?php  ?>

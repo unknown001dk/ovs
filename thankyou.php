@@ -27,8 +27,8 @@ include('header.php');
 		<img src="./admin/gallery/vote.png" width="60" height="60" style="border-radius: 50px;">
  	</a>
 	<a class="brand">
-	 <h2>CHMSC Laboratory School Voting System</h2>
-	 <div class="chmsc_nav"><font size="4" color="white">Carlos Hilado Memorial State College</font></div>
+	 <h2>Online Voting System</h2>
+	 <div class="chmsc_nav"><font size="4" color="white">Online Voting system - Tamilnadu government</font></div>
  	</a>
 
 	<?php include('head.php'); ?>

@@ -2,6 +2,6 @@
 
       <footer>
         <div class="foot_center2"><p>Copyright &copy; 2024</p>
-		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbspProgrammed by: Sankar  :-P</p>
+		<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbspProgrammed by: Sankar  :-A</p>
 		</div>
       </footer>

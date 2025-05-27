@@ -59,7 +59,7 @@ include('dbcon.php');
 	</div>
 	<div id="element" class="hero-body">
 	  <div class="thumbnail_gallery">
-                <h2>School or Collage Gallery</h2>
+                <h2>Online voting Gallery</h2>
 				<p><font color="black">Click the image to view more...</font></p>
 				<div id="myGallery" class="spacegallery">
 					<img src="./gallery/vote-1.jpeg" alt="" />
@@ -76,8 +76,9 @@ include('dbcon.php');
 			</div>
 			  <div class="thumbnail_mission">
 			  <h2>Mission</h2>
-			  <p>Laboratory School wly serving as a training ground for education students,seeks to develop in excellence
-			  and with quality, the total personality of children and youth become worthy members of sociaty.
+			  <p> Our online voting platform is committed to promoting transparency, accessibility, and fairness in the electoral process. 
+    We aim to empower citizens to cast their votes securely and conveniently from anywhere, ensuring that every voice is heard and 
+    every vote counts.
 			  </p>
 			   <a class="btn btn-info" data-toggle="modal" href="#mission"><i class="icon-list-alt icon-large"></i>&nbsp;Read More</a>
 			   	<div class="modal hide fade" id="mission">
@@ -88,12 +89,12 @@ include('dbcon.php');
 	  <div class="modal-body">
 	   <h2>College Of Education Mission</h2>
 <p><font color="black">
-The college of education as a leading training center for globally competitive professional teachers in the elementary and secondary levels
+Our mission is to provide a secure, transparent, and accessible online voting system that empowers all eligible users to participate in democratic processes anytime, anywhere, with confidence and ease.
 </p>
 
 	   <h2>College Of Education Vission</h2>
 <p><font color="black">
-Vision Train and develop highly motivated and committed professional elementary and secondary teachers equipped with instructional,personal and social competencies conducive to teh task of human development.
+To become a trusted and innovative platform that revolutionizes the way voting is conducted—ensuring integrity, increasing voter turnout, and strengthening democratic values through the power of technology.
 </p>
 	  </div>
 	  <div class="modal-footer">

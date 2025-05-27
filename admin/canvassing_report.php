@@ -64,12 +64,12 @@ include('dbcon.php');
     <ul>
 
     <li  class="active"><a href="Canvassing_report.php"><font color="white">All</font></a></li>
-    <li><a href="C_governor.php"><font color="white">Governor</font></a></li>
-    <li><a href="C_vice-governor.php"><font color="white">Vice-Governor</font></a></li>
-    <li><a href="C_1st_year.php"><font color="white">1st Year Representative</font></a></li>
+    <li><a href="C_governor.php"><font color="white">Chief Minister</font></a></li>
+    <li><a href="C_vice-governor.php"><font color="white">Vice Chief Minister</font></a></li>
+    <!-- <li><a href="C_1st_year.php"><font color="white">1st Year Representative</font></a></li>
     <li><a href="C_2nd_year.php"><font color="white">2nd Year Representative</font></a></li>
     <li><a href="C_3rd_year.php"><font color="white">3rd Year Representative</font></a></li>
-    <li><a href="C_4th_year.php"><font color="white">4th Year Representative</font></a></li>
+    <li><a href="C_4th_year.php"><font color="white">4th Year Representative</font></a></li> -->
    
  
   

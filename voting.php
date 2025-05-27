@@ -41,7 +41,10 @@ include('header.php');
 $governor=mysqli_query($conn,"select * from candidate where Position='Chiefminister'")or die(mysqli_error());
 while($row=mysqli_fetch_array($governor)){ $governor_id=$row['CandidateID']; ?>
 
-<img class="gov" src="<?php echo $row['Photo'];?>" width="150" height="150" border="0" onmouseover="showtrail('<?php echo $row['Photo'];?>','<?php echo $row['FirstName']." ".$row['LastName'];?> ',200,5)" onmouseout="hidetrail()">
+<p>./<?php echo $row['Photo'];?></p>
+<img src="./upload/WIN_20250408_11_33_03_Pro.jpg" alt="">
+
+<img class="gov" src="./<?php echo $row['Photo'];?>" width="150" height="150" border="0" onmouseover="showtrail('<?php echo $row['Photo'];?>','<?php echo $row['FirstName']." ".$row['LastName'];?> ',200,5)" onmouseout="hidetrail()">
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <?php
